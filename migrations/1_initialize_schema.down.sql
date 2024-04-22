@@ -1,0 +1,10 @@
+DROP TABLE "chats";
+DROP TABLE "presets_prompts";
+DROP TABLE "llm_family_models";
+DROP TABLE "user_description";
+DROP TABLE "chat_messages";
+DROP TABLE "chats_roles";
+DROP TABLE "preset_params";
+DROP TABLE "presets";
+DROP TABLE "llm_families";
+DROP TABLE "characters";
